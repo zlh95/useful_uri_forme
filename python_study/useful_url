@@ -1,8 +1,15 @@
-https://www.zhihu.com/question/54773510  （scrapy request.meta）
-http://python.jobbole.com/82294/  （赋值，浅拷贝与深拷贝）
-https://blog.csdn.net/nima1994/article/details/74931621?locationNum=10&fps=1 （解决Windows无法安装Scrapy的问题）
-https://zhuanlan.zhihu.com/p/34324811 （yield总结）
-https://www.zhihu.com/question/64197523  （类方法默认的实现可代理__init()__初始化方法。）
-https://docs.djangoproject.com/zh-hans/2.0/  （django2.0中文文档）
-https://tutorial.djangogirls.org/zh/   （django 中文文档）
-https://cuiqingcai.com/  （python技术博客）
+1.  https://www.zhihu.com/question/54773510  （scrapy request.meta）
+2.  http://python.jobbole.com/82294/  （赋值，浅拷贝与深拷贝）
+3.  https://blog.csdn.net/nima1994/article/details/74931621?locationNum=10&fps=1 （解决Windows无法安装Scrapy的问题）
+4.  https://zhuanlan.zhihu.com/p/34324811 （yield总结）
+5.  https://www.zhihu.com/question/64197523  （类方法默认的实现可代理__init()__初始化方法。）
+6.  https://docs.djangoproject.com/zh-hans/2.0/  （django2.0中文文档）
+7.  https://tutorial.djangogirls.org/zh/   （django 中文文档）
+8.  https://cuiqingcai.com/  （python技术博客）
+9.  https://blog.csdn.net/beyond_f/article/details/74626311 （spider中间件）
+10. http://python.jobbole.com/81683/  ；http://python.jobbole.com/88530/（函数装饰器）
+11. https://www.cnblogs.com/ranyonsue/p/5984001.html  （HTTP协议基础参考）
+12. {https://blog.csdn.net/qq_21445563/article/details/51017605；
+    https://blog.csdn.net/ohmygirl/article/details/17846199}  （Fiddler使用方法）
+13. https://blog.csdn.net/happyanger6/article/details/53457066  （scrapy源码分析）
+14. http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html  （互联网协议入门）
